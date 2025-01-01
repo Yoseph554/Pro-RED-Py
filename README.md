@@ -1,4 +1,12 @@
 # Pro-RED-Py
+
+
+## Tecnologías usadas
+- Python
+
+
+
+
 <img width="846" alt="image" src="https://github.com/user-attachments/assets/e9e6af26-096f-4e07-90f1-25c8dbd25acd" />
 
 ## Descripción
